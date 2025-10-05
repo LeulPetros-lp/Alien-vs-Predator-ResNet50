@@ -14,7 +14,7 @@ tqdm==4.67.1
 tenacity==9.1.2
 
 # PyTorch CPU-only for Streamlit Cloud
-torch==2.3.1+cpu
+torch==2.8.0+cpu
 torchvision==0.18.1+cpu
 torchaudio==2.3.1+cpu
 --extra-index-url https://download.pytorch.org/whl/cpu
